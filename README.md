@@ -1,1 +1,2 @@
 # 8INF309
+Ce jeu de données (https://www.kaggle.com/datasets/shivamb/elevator-predictive-maintenance-dataset) est le fruit du travail de Cristian Axenie et Stefano Bortoli (https://zenodo.org/record/3653909) issu de la collecte des données de divers capteurs IoT et est destiné à la maintenance prédictive des portes d'ascenseur. Ces données permettent d'optimiser la maintenance prédictive des portes d'ascenseur afin de réduire les arrêts imprévus et de maximiser la durée de vie des équipements.
